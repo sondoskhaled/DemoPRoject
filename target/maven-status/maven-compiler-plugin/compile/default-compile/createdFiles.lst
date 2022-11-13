@@ -1,0 +1,12 @@
+pages\SeOOPage.class
+objects\Link.class
+browser\BrowserGetter.class
+tutorialsolution\pages\WebElementInteractionPage.class
+objects\Article.class
+objects\Image.class
+org\example\App.class
+pages\InteractionsPage.class
+tutorialsolution\pages\BasicPage.class
+tutorialsolution\pages\WindowsPage.class
+tutorialsolution\pages\UserPromptsPage.class
+pages\TabsPage.class
